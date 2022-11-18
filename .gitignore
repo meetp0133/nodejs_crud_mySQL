@@ -1,0 +1,6 @@
+# dependencies
+public
+node_modules
+.idea/
+.env
+/package-lock.json
